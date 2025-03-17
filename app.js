@@ -16,4 +16,8 @@ class inventario{
   metodoC(){ 
   console.log("Ejecutado metodo C"); 
   }
+
+  metodoD(){ 
+    console.log("Ejecutado metodo D"); 
+    }
 }
